@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedZaheer99
+- 👋 Hi, I’m @AhmedZaheer
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on new development projects
